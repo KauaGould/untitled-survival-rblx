@@ -5,3 +5,4 @@ O projeto conta com sistemas de inventário, vida, fome, sede, coleta de recurso
 O objetivo do jogo é sobreviver coletando recursos como madeira e pedra enquanto explora o mapa.
 
 Projeto desenvolvido para fins de aprendizado e prática em desenvolvimento de jogos.
+Link do Projeto: https://www.roblox.com/pt/games/124733927784629/Untitled-Survival-Game
